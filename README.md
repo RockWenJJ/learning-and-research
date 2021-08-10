@@ -2,6 +2,16 @@
 
 **2021 resolution** : read at least **3** papers and write their reading notes a week.
 
+### 2021.08
+
+[3DSSD: Point-based 3D Single Stage Object Detector](https://arxiv.org/abs/2002.10187) ([Code](https://github.com/dvlab-research/3DSSD))
+
+[OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008) ([Code](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
+
+### 2021.07
+
+[GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](https://arxiv.org/abs/1711.02257) [`ICML2018`]
+
 ### 2021.06
 
 [Spatial As Deep: Spatial CNN for Traffic Scene Understanding](https://arxiv.org/pdf/1712.06080.pdf) [`AAAI2018`] ([Code](https://github.com/XingangPan/SCNN))
