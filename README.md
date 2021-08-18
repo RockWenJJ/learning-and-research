@@ -4,6 +4,8 @@
 
 ### 2021.08
 
+[PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) [`CVPR2019`] ([Code](https://github.com/nutonomy/second.pytorch))
+
 [3DSSD: Point-based 3D Single Stage Object Detector](https://arxiv.org/abs/2002.10187) ([Code](https://github.com/dvlab-research/3DSSD))
 
 [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008) ([Code](https://github.com/CMU-Perceptual-Computing-Lab/openpose))
