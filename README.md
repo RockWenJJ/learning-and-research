@@ -3,6 +3,9 @@
 **2021 resolution** : read at least **3** papers and write their reading notes a week.
 
 ### 2021.08
+[Center-based 3D Object Detection and Tracking](https://arxiv.org/abs/2006.11275) [`CVPR2021`] ([Code](https://github.com/tianweiy/CenterPoint))
+
+[Deep Hough Voting for 3D Object Detection in Point Clouds](https://arxiv.org/abs/1904.09664) [`ICCV2019`] ([Code](https://github.com/facebookresearch/votenet))
 
 [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784) [`CVPR2019`] ([Code](https://github.com/nutonomy/second.pytorch))
 
